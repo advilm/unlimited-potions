@@ -1,3 +1,1 @@
 Just adds a few unlimited potions that can be crafted by using 30 of the potion. (Idea taken from LuiAFK which is not 1.4 yet). Currently added potions: AmmoReservation, Archery, Battle, Builder, Calming, Dangersense, Endurance, Featherfall, FishingPotion, Flipper, Gills, Gravitation, Heartreach, Hunter, Ichor, Inferno, Invisibility, Ironskin, Lifeforce, Love, MagicPower, ManaRegeneration, Mining, NightOwl, ObsidianSkin, Rage, Regeneration, Shine, Sonar, Spelunker, Stink, Summoning, Swiftness, Thorns, Titan, Warmth, WaterWalking, Wrath
-
-Note: Potions can only be crafted at a placed bottle currently
