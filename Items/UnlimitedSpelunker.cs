@@ -21,7 +21,6 @@ namespace UnlimitedPotions.Items
 		{
 			Recipe recipe = CreateRecipe();
 			recipe.AddIngredient(ItemID.SpelunkerPotion, 30);
-			recipe.AddTile(TileID.WorkBenches);
 			recipe.AddTile(TileID.Bottles);
 			recipe.Register();
 		}
